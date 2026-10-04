@@ -1,0 +1,13 @@
+ipykernel==7.4.0
+jupyter==1.1.1
+librosa==1.0.0
+matplotlib==3.11.2
+mediapipe==1.0.1
+notebook==7.6.3
+numpy==2.5.3
+opencv-contrib-python==5.0.0.93
+pandas==3.0.6
+pillow==12.3.0
+scikit-learn==1.9.1
+scipy==1.18.1
+soundfile==0.14.0
